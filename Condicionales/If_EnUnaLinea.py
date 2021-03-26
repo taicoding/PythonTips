@@ -11,15 +11,13 @@ Expresamos el If de la siguiente forma
 #Vamos a evaluar si un numero es par
 numero =800
 #Definimos la condicional en una sola linea
-print('PAR'if numero%2==0 else 'IMPAR')   
-print(numero%2) 
+print('PAR'if numero%2==0 else 'IMPAR') 
 #Resultado: PAR
 #Tambien podemos almacenar el resultado del IF en
 #una variable 
 numero = 807
 resultado = 'PAR'if numero%2==0 else 'IMPAR'
 print(resultado)
-print(numero%2)
 #Resultado: IMPAR
 #Los operadores ternarios en Python son mejor 
 #conocidos como expresiones condicionales
