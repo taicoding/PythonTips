@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Listas: Segmentacion
 La segmentacion es una propiedad muy cool de las 
 listas en python 😎👩🏻‍🏫👩🏻‍💻 para usarla solo tenemos 

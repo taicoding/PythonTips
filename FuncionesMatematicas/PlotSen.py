@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Graficas de funciones trigonometricas: Funcion Seno
 '''
 # Vamos a importar las extensiones necesarias para este ejemplo

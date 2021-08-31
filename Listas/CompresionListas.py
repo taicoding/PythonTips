@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Listas: Comprension 
 '''
 '''

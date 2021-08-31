@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Tipos de Variables: Tuplas
 Las tuplas son tipos de dato parecidos a las listas.
 Podemos almacenar en ellas cualquier tipo de dato

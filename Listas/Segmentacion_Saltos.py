@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Listas: Segmentacion y saltos
 '''    
 # Vamos a definir la lista 'numeros'  

@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 ¿Como poner comentarios en Python?
 '''
 # Usa '#' mas conocido como hashtag 

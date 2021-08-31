@@ -1,5 +1,5 @@
 """
-@author Tai543
+@author taicoding
 Instalancion de modulos en ambientes virtuales
 Supongamos que tenemos la siguiente estructura 
 de carpetas y el venv activo:

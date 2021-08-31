@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 ¿Para que sirve la funcion type en Python?
 '''
 #Nos permite ver el tipo de la varible

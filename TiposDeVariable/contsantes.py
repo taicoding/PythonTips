@@ -1,8 +1,8 @@
 '''
-@author Tai543
+@author taicoding
 Tipos de Variables: Constantes
-Las contantes son tipos de variables 
-cuyo valor no cambia
+Las constantes son tipos de variables 
+cuyo valor no cambiara
 '''
 # Por convencion las constantes 
 # llevan nombres en mayusculas

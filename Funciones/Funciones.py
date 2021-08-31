@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Funciones
 ¿Que es un Funcion?
 Una funcion es un bloque de codigo que se ejecuta

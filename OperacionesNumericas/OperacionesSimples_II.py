@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Operadores aritmeticos Parte II
 '''
 #Definimos las variables con las que realizaremos 

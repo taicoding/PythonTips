@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Comandos de consola utiles para Python
 '''
 # Ver la version de python instalada 

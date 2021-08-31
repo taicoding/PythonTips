@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Conjuntos
 Vamos a graficar el numero de elementos en 
 comun entre dos conjuntos en un diagrama de Venn

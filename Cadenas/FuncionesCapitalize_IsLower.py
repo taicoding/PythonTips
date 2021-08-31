@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Operaciones con cadenas parte II
 '''
 #Definimos una cadena

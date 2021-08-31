@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Tipos de Variables: Rangos
 Los rangos son tipos de datos que nos permiten representar 
 secuencias de numeros inmutables

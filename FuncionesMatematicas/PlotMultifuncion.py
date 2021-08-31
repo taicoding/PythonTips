@@ -1,6 +1,6 @@
 
 '''
-@author Tai543
+@author taicoding
 Graficar multiples funciones 👩🏻‍🏫👩🏻‍💻
 '''
 '''

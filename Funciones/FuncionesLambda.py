@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Funciones Lambda
 Es un tipo de funcion anonima que puede 
 tomar varios argumentos y evaluarlos en 

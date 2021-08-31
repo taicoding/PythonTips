@@ -1,5 +1,5 @@
 """
-@author Tai543
+@author taicoding
 Ambientes virtuales
 Supongamos que tenemos una carpeta 'proyecto' y 
 ejecutamos los siguientes comandos

@@ -1,5 +1,5 @@
 """
-@author Tai543
+@author taicoding
 Actualizando pip en ambientes virtuales
 Supongamos que tenemos la siguiente 
 estructura de carpetas y el venv activo:

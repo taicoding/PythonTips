@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Tipos de Variables: Listas
 Las listas son estructuras de datos y 
 un tipo de dato muy util en Python

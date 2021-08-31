@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Funciones de Listas
 Veamos funciones utiles para manejar listas
 '''

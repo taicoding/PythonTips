@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 ¿Que puedes hacer con la funcion print?
 '''
 #Puedes imprimir cadenas

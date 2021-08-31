@@ -1,5 +1,5 @@
 '''
-@author Tai543
+@author taicoding
 Tipos de Variables: Conjuntos
 Los conjuntos son estructuras de datos y un tipo 
 de dato equivalentes a los conjuntos matematicos

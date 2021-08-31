@@ -1,10 +1,10 @@
 '''
-@author Tai543
+@author taicoding
 Tipos de Variables: Diccionarios II
 Tenemos nuestro diccionario 'instagram' vamos a mostrar 
 todos los valores de las llaves linea por linea
 '''
-instagram = {'nombre':'Tai543','edad':'27'
+instagram = {'nombre':'taicoding','edad':'27'
             ,'progreso':0.5
             , 'seguidores':['uwu'
                             ,'sin'
@@ -18,7 +18,7 @@ for llave,valor in instagram.items():
 # correspondiente a la llave
     print(str(llave)+':'+str(valor))
 # Resultado:
-# nombre:Tai543
+# nombre:taicoding
 # edad:27
 # progreso:0.5
 # seguidores:['uwu', 'sin', 'ewe']
