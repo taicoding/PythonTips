@@ -1,20 +1,18 @@
-'''
+"""
 @author taicoding
 ¿Para que sirve la funcion type en Python?
-'''
-#Nos permite ver el tipo de la varible
-#que definimos
-nombre='Tatiana'
+"""
+# Nos permite ver el tipo de la varible
+# que definimos
+nombre = "Tatiana"
 print(type(nombre))
-#Resultado: <class 'str'>
-edad=27
+# Resultado: <class 'str'>
+edad = 27
 print(type(edad))
-#Resultado: <class 'int'>
-estatura=1.65
+# Resultado: <class 'int'>
+estatura = 1.65
 print(type(estatura))
-#Resultado: <class 'float'>
-casada=False
+# Resultado: <class 'float'>
+casada = False
 print(type(casada))
-#Resultado: <class 'bool'>
-
-
+# Resultado: <class 'bool'>
