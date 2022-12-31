@@ -6,7 +6,7 @@ Formas de declarar una lista
 likes = []
 seguidores = list()
 # Con elementos
-letras = list(["P", "Y", "T", "H", "O", "N", 3.9, 4])
+letras = list(["P", "Y", "T", "H", "O", "N", 3.9, True])
 emociones = ["u_u", "uwu", "o_o", "uwu"]
 # Bonus: ✨ Veamos el tipo ✨
 print(type(emociones))

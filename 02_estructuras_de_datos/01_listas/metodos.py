@@ -38,7 +38,6 @@ emociones.sort()
 print(emociones)
 # R: ['e_e', 'owo', 'uwu']
 
-
 # ⭐️ Indice de un elemento ⭐️
 # index(elemento)
 i = emociones.index("owo")
