@@ -11,4 +11,3 @@ pares = {22, 44, 66, 88, 100}
 # Bonus: ✨ Veamos el tipo ✨
 print(type(numeros))
 # R: <class 'dict'>
-pares.

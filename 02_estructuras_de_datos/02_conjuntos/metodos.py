@@ -1,22 +1,21 @@
 """
 @author taicoding
-Metodos de Sets 🐍
+Métodos de Sets 🐍
 """
-# Lista inicial
-emociones = ["uwu"]
+# Conjunto inicial
+frutas = {"fresa", "sandia"}
 # ⭐️ Agregar un elemento ⭐️
-# append(elemento)
-emociones.append("owo")
-print(emociones)
-# R: ['uwu', 'owo']
-# ⭐️ Agregar un elemento ⭐️
-# insert(indice,elemento)
-emociones.insert(1, "e_e")
-print(emociones)
-# R: ['uwu', 'e_e', 'owo']
-# concatenacion de listas
-emociones = emociones + ["o_o"]
-print(emociones)
-# R: ['uwu', 'e_e', 'owo', 'o_o']
-# ⭐️ Tip
-# ⭐️ append es la forma mas rapida
+# add(elemento)
+frutas.add("uva")
+print(frutas)
+# R: {'sandia', 'fresa', 'uva'}
+# ⭐️ Remover un elemento especifico ⭐️
+# discard(elemento)
+frutas.discard("uva")
+print(frutas)
+# R: {'sandia', 'fresa'}
+# ⭐️ Diferencia entre dos conjuntos ⭐️
+# set.difference(set)
+bayas = {"fresa", "mora"}
+print(bayas.difference(frutas))
+# R: {'mora'}
