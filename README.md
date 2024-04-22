@@ -1,4 +1,5 @@
 # Python Tips by Taicoding
+Encuentra todo el contenido de este repositorio en mi cuenta de Instagram [@taicoding](https://www.instagram.com/taicoding/)
 
 ### ¿Te cuesta entender código en Python?
 En este repositorio encontrarás una serie de tips y ejemplos de fragmentos de código en Python comentados linea por linea para que puedas aprender de manera sencilla y rápida.
@@ -24,7 +25,4 @@ En este repositorio encontrarás una serie de tips y ejemplos de fragmentos de c
    1. [While](/04_estructuras_de_iteracion/01_while/)
    2. [For](/04_estructuras_de_iteracion/02_for/)
 5. [Funciones](/05_funciones/)
-
-### Instagram
-Encuentra todo el contenido de este repositorio en mi cuenta de Instagram [@taicoding](https://www.instagram.com/taicoding/)
 
