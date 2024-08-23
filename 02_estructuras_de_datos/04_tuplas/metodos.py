@@ -1,30 +1,31 @@
 """
 @author taicoding
-Métodos de Tuplas 🐍
+Métodos de Tuplas 🐍🧮
 """
-# Tupla inicial
-calificaciones = (2, 7, 8, 2, 5, 4, 2)
-# ⭐️ Contar las apariciones de un elemento ⭐️
-# count(elemento)
-contador = calificaciones.count(2)
+
+# Definimos una tupla de calificaciones
+calificaciones = (51, 70, 80, 51, 65)
+# 🔢 Contar las apariciones de un elemento
+# Método: count(elemento)
+contador = calificaciones.count(51)
 print(contador)
-# R: 3
+# 🖨️ Resultado: 2
 """
 @author taicoding
-Métodos de Tuplas 🐍
+Métodos de Tuplas 🐍🧮
 """
-# ⭐️ Obtener el indice de un elemento ⭐️
-# index(elemento)
-indice = calificaciones.index(7)
+# 🔍 Obtener el indice de un elemento
+# Método: index(elemento)
+indice = calificaciones.index(70)
 print(indice)
-# R: 1
+# 🖨️ Resultado: 1
 """
 @author taicoding
-Métodos de Tuplas 🐍
+Métodos de Tuplas 🐍🧮
 """
-# ⭐️ Obtener el indice de un elemento
-# en un intervalo ⭐️
-# index(elemento, inicio, fin)
-indice = calificaciones.index(2, 2, 5)
+# 📍 Obtener el indice de un elemento
+# en un intervalo específico 🔛
+# Método:  index(elemento, inicio, fin)
+indice = calificaciones.index(51, 2, 5)
 print(indice)
-# R: 3
+# 🖨️ Resultado: 3
