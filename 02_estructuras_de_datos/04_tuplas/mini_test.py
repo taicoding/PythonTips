@@ -1,8 +1,9 @@
 """
 @author taicoding
-Tema: Tuplas 
+Tema: Tuplas 🐍🧮
 ¿Cuál es el resultado? 👩🏻‍🏫👩🏻‍💻🐍
 """
-pares = (2, 4, 6)
-impares = (1, 3, 5)
-print(pares > impares)
+
+menu = ("🧁", "🍪", "🍟", "🍕", "🍨")
+helado = menu.index("🍨")
+print(helado)
