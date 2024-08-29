@@ -1,45 +1,52 @@
 """
 @author taicoding
-Métodos de Listas 🐍
+Métodos para agregar elementos a una Lista 🐍📜
 """
-# Lista inicial
-emociones = ["uwu"]
-# ⭐️ Agregar un elemento ⭐️
-# append(elemento)
-emociones.append("owo")
-print(emociones)
-# R: ['uwu', 'owo']
-# ⭐️ Tip: append es la forma mas rápida
 
-# ⭐️ Agregar un elemento ⭐️
-# insert(indice,elemento)
-emociones.insert(1, "e_e")
+# Declaramos una lista de emociones
+emociones = ["😊"]
+# 📂 Agregar una nueva emoción al final de la lista
+# Método: append(elemento)
+emociones.append("😢")
 print(emociones)
-# R: ['uwu', 'e_e', 'owo']
-
-# concatenación de listas
-emociones = emociones + ["o_o"]
+# 🖨️ Resultado: ['😊', '😢']
+# 📂 Agregar una nueva emoción en una posición
+# especifica de la lista
+# Método: insert(posición,elemento)
+emociones.insert(1, "😵")
 print(emociones)
-# R: ['uwu', 'e_e', 'owo', 'o_o']
-
-# ⭐️ Remueve un elemento ⭐️
-# remove(elemento)
-emociones.remove("o_o")
+# 🖨️ Resultado: ['😊', '😵', '😢']
+# 🧩 Agregar emociones utilizando otro iterable
+# Un iterable puede ser una lista, tupla, cadena, etc.
+# Método: extend(lista)
+emociones.extend({"😄", "😍"})
 print(emociones)
-# R: ['uwu', 'e_e', 'owo']
+# 🖨️ Resultado: ['😊', '😵', '😢', '😍', '😄']
+# 🧩 Agregar una emoción concatenando dos listas
+emociones = emociones + ["😢"]
+print(emociones)
+# 🖨️ Resultado: ['😊', '😵', '😢', '😍', '😄', '😢']
+# ⭐️ Tip: El método append es el mas rápido
 
-# ⭐️ Revertir la Lista ⭐️
+# Declaramos una lista de emociones
+emociones = ["😊", "😵", "😍", "😄", "😢"]
+# 🗑️ Remover un elemento de la Lista
+# Método: remove(elemento)
+emociones.remove("😢")
+print(emociones)
+# 🖨️ Resultado: ['😊', '😵', '😍', '😄']
+# 🔄 Revertir los elementos de la Lista
+# Método: reverse()
 emociones.reverse()
 print(emociones)
-# R: ['owo', 'e_e', 'uwu']
-
-# ⭐️ Ordenar la Lista ⭐️
+# 🖨️ Resultado: ['😄', '😍', '😵', '😊']
+# 📊 Ordenar los elementos de la Lista
+# Método: sort()
 emociones.sort()
 print(emociones)
-# R: ['e_e', 'owo', 'uwu']
-
-# ⭐️ Indice de un elemento ⭐️
-# index(elemento)
-i = emociones.index("owo")
-print(i)
-# R: 1
+# 🖨️ Resultado: ['😄', '😊', '😍', '😵']
+# 🔍 Obtener el indice de un elemento
+# Método: index(elemento)
+indice = emociones.index("😍")
+print(indice)
+# 🖨️ Resultado: 2
