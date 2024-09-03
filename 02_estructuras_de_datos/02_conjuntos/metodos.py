@@ -1,21 +1,27 @@
 """
 @author taicoding
-Métodos de Sets 🐍
+Métodos de Conjuntos 🐍🍟
 """
-# Conjunto inicial
-frutas = {"fresa", "sandia"}
-# ⭐️ Agregar un elemento ⭐️
-# add(elemento)
-frutas.add("uva")
+
+# Definimos un conjunto de frutas
+frutas = {"🍓", "🍉"}
+# 🧩 Agregar un elemento al conjunto
+# Método: add(elemento)
+frutas.add("🍋")
 print(frutas)
-# R: {'sandia', 'fresa', 'uva'}
-# ⭐️ Remover un elemento especifico ⭐️
-# discard(elemento)
-frutas.discard("uva")
+# 🖨️ Resultado: {'🍋', '🍓', '🍉'}
+# 🗑️ Remover un elemento al conjunto
+# Método: discard(elemento)
+frutas.discard("🍋")
 print(frutas)
-# R: {'sandia', 'fresa'}
-# ⭐️ Diferencia entre dos conjuntos ⭐️
-# set.difference(set)
-bayas = {"fresa", "mora"}
+# 🖨️ Resultado: {'🍓', '🍉'}
+# 🔗 Encontrar la diferencia entre dos conjuntos
+# Método: difference(set)
+bayas = {"🍓", "🍒"}
 print(bayas.difference(frutas))
-# R: {'mora'}
+# 🖨️ Resultado: {"🍒"}
+# 🔘 Unir dos conjuntos
+# Método: union(set)
+frutas = frutas.union(bayas)
+print(frutas)
+# 🖨️ Resultado: {'🍒', '🍓', '🍉'}
