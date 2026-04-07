@@ -7,12 +7,20 @@ kernelspec:
 
 # Datos numéricos
 
-Los datos numéricos son aquellos que representan cantidades o valores numéricos. En Python, existen varios tipos de datos numéricos:
+Los datos numéricos son aquellos que representan cantidades o valores numéricos. Por ejermplo:
+
+- La edad de una persona
+- El precio de un producto
+- Las medidas de un objeto
+- La temperatura de un lugar
+- La distancia entre dos ciudades
+
+En Python, existen varios tipos de datos numéricos:
 
 | Tipo | Descripción | Ejemplo |
-|------|-------------|---------|
-| `int` | Entero | `42` `-7` `0` |
-| `float` | Punto flotante | `3.14` `-0.001` `2.0` |
+|:------:|:-------------|---------:|
+| `int` | Número Entero | `42` `-7` `0` |
+| `float` | Numero de Punto flotante | `3.14` `-0.001` `2.0` |
 | `complex` | Número complejo | `2 + 3j` `-1 - 4j` |
 
 Tambien es posible representar números en diferentes bases, como binario (base 2), octal (base 8) y hexadecimal (base 16):

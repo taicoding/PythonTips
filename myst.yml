@@ -22,6 +22,8 @@ project:
             - file: content/01_tipos_datos/01_numeros/02_enteros.md
             - file: content/01_tipos_datos/01_numeros/03_flotantes.md
             - file: content/01_tipos_datos/01_numeros/04_complejos.md
+        - file: content/01_tipos_datos/02_cadenas/02_cadenas.md
+        - file: content/01_tipos_datos/03_booleanos/03_booleanos.md
 
   jupyter:
     binder:
