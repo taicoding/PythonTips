@@ -30,12 +30,3 @@ Tambien es posible representar números en diferentes bases, como binario (base 
 |`0b` | Binario (base 2) | `0b1010` (10 en decimal) |
 |`0o` | Octal (base 8) | `0o12` (10 en decimal) |
 |`0x` | Hexadecimal (base 16) | `0x1A` (26 en decimal) |
-
-
-
-| Tipo de dato | Descripción | Ejemplo |
-|--------------|-------------|---------|
-|Enteros (`int`)| Son todos los números positivos o negativos sin parte decimal.| `-3` `0` `42`|
-|Punto flotante (`float`)| Son todos los números positivos o negativos con parte decimal.| `3.14` `-0.001` `2.0`|
-|Números complejos (`complex`)| Son todos los numero que tiene parte real y parte imaginaria. Se representan con la letra `j` para la parte imaginaria.| `2 + 3j` `-1 - 4j`|
-|Números en diferentes bases| Python permite representar números en diferentes bases, como binario (base 2), octal (base 8) y hexadecimal (base 16).| `0b1010` (binario), `0o12` (octal), `0x1A` (hexadecimal)|
