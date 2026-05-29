@@ -3,7 +3,7 @@
 Métodos de Conjuntos 🐍🍟
 """
 
-# Definimos un conjunto de frutas
+# Definimos un conjunto de postres
 postres = {"🍰", "🍪"}
 # 🧩 Agregar un elemento al conjunto
 # Método: add(elemento)
