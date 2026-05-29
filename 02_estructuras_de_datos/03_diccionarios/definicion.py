@@ -2,6 +2,7 @@
 @author taicoding
 Formas de declarar un diccionario 🐍
 """
+
 # Sin elementos
 recetas = {}
 menu = dict()
