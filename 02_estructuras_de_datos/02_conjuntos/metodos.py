@@ -15,8 +15,16 @@ print(postres)
 postres.discard("🍪")
 print(postres)
 # 🖨️ Resultado: {'🍰', '🍦'}
+# Definimos un conjunto de postres
+postres = {"🍰", "🍪"}
+# 🧩 Agregar un elemento al conjunto
+# Método: add(elemento)
+postres.add("🍦")
+print(postres)
+# 🖨️ Resultado: {'🍪', '🍦', '🍰'}
 # 🛒 Unir dos conjuntos
 # Método: union(set)
+# Definimos un conjunto de helados
 helados = {"🍦", "🍨"}
 union = postres.union(helados)
 print(union)
